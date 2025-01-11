@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
       url: "https://macai.studio",
       type: "custom",
       description: "Check out my latest projects and case studies",
-      shortDescription: "My Personal Website",
+      shortDescription: "Personal Portfolio",
       visible: true
     },
     {
@@ -38,13 +38,13 @@ export const siteConfig: SiteConfig = {
       type: "custom",
       description: "Check out my latest projects and case studies",
       shortDescription: "Customized AI Agents and Assistants",
-      visible: true
+      visible: false
     },
     {
       label: "Macai.cloud",
       url: "https://macai.cloud",
       type: "custom",
-      description: "Store my AI Tutorials",
+      description: "AI Tutorials Platform",
       shortDescription: "AI Guides & Tutorials",
       visible: true
     },
@@ -81,7 +81,7 @@ export const siteConfig: SiteConfig = {
       url: "https://www.threads.net/@piotr.macai",
       type: "threads",
       shortDescription: "AI news & AI art",
-      visible: true
+      visible: false
     },
     {
       label: "YouTube",
@@ -144,7 +144,7 @@ export const siteConfig: SiteConfig = {
       url: "https://www.deviantart.com/piotrmacai",
       type: "deviantart",
       shortDescription: "AI Generated Visuals",
-      visible: true
+      visible: false
     }
   ],
   footer: {

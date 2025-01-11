@@ -4,6 +4,7 @@ import { SocialLink } from "@/components/social-link"
 import { Banner } from "@/components/banner"
 import { Footer } from "@/components/footer"
 import { siteConfig } from "@/config/site"
+import  Chatbot from "@/components/chatbot"
 
 export default function Home() {
   return (
@@ -35,6 +36,7 @@ export default function Home() {
         </div>
 
         <Footer {...siteConfig.footer} />
+        <Chatbot/>
       </div>
     </div>
   )
