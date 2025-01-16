@@ -8,7 +8,7 @@ const Chatbot: React.FC = () => {
     document.body.appendChild(script1);
 
     const script2 = document.createElement('script');
-    script2.src = 'https://files.bpcontent.cloud/2024/11/29/18/20241129182251-UU7RZYSQ.js';
+    script2.src = 'https://files.bpcontent.cloud/2024/10/18/09/20241018090808-B2VMOI0Y.js';
     script2.defer = true;
     document.body.appendChild(script2);
 
@@ -22,3 +22,4 @@ const Chatbot: React.FC = () => {
 };
 
 export default Chatbot;
+    

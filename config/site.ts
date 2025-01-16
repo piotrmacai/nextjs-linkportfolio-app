@@ -25,6 +25,14 @@ export const siteConfig: SiteConfig = {
   bannerImage: "/banner.jpg?height=300&width=1200",
   links: [
     {
+      label: "Ainsider.tools AI Directory",
+      url: "https://ainsider.tools",
+      type: "custom",
+      description: "AI Tools and Models Directory",
+      shortDescription: "AI Tools and Models Directory",
+      visible: true
+    },
+    {
       label: "Macai.studio",
       url: "https://macai.studio",
       type: "custom",
