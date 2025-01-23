@@ -29,7 +29,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="grid gap-4 py-12 md:gap-6">
+        <div className="grid gap-4 py-6 md:gap-6">
           {siteConfig.links.filter(link => link.visible).map((link, index) => (
             <SocialLink key={index} {...link} />
           ))}

@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   bannerImage: "/banner.jpg?height=300&width=1200",
   links: [
     {
-      label: "Ainsider.tools AI Directory",
+      label: "Ainsider.tools",
       url: "https://ainsider.tools",
       type: "custom",
       description: "AI Tools and Models Directory",
@@ -33,27 +33,27 @@ export const siteConfig: SiteConfig = {
       visible: true
     },
     {
+      label: "Insdr.cloud",
+      url: "https://insdr.cloud",
+      type: "custom",
+      description: "My Web & AI Studio",
+      shortDescription: "My Web & AI Studio",
+      visible: true
+    },
+    {
+      label: "Ainsider.store",
+      url: "https://ainsider.store",
+      type: "custom",
+      description: "AI Tutorials & Resources Platform",
+      shortDescription: "AI Guides & Resources",
+      visible: true
+    },   
+    {
       label: "Macai.studio",
       url: "https://macai.studio",
       type: "custom",
       description: "Check out my latest projects and case studies",
       shortDescription: "Personal Portfolio",
-      visible: true
-    },
-    {
-      label: "Insdr.cloud",
-      url: "https://insdr.cloud",
-      type: "custom",
-      description: "Check out my latest projects and case studies",
-      shortDescription: "Customized AI Agents and Assistants",
-      visible: false
-    },
-    {
-      label: "Macai.cloud",
-      url: "https://macai.cloud",
-      type: "custom",
-      description: "AI Tutorials Platform",
-      shortDescription: "AI Guides & Tutorials",
       visible: true
     },
     {
