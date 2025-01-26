@@ -49,6 +49,14 @@ export const siteConfig: SiteConfig = {
       visible: true
     },   
     {
+      label: "Ai Newsletter",
+      url: "https://ainsider.beehiiv.com",
+      type: "custom",
+      description: "Ainsider AI Newsletter",
+      shortDescription: "Ainsider AI Newsletter",
+      visible: true
+    }, 
+    {
       label: "Macai.studio",
       url: "https://macai.studio",
       type: "custom",
