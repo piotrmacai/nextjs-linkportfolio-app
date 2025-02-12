@@ -19,7 +19,7 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Piotr Macai",
+  name: "Piotr Macai / Ainsider.co",
   avatar: "/macaihead.jpg",
   description: "AI & Web Designer & Developer. Creator of New Digital World.",
   bannerImage: "/banner.jpg?height=300&width=1200",
@@ -164,7 +164,7 @@ export const siteConfig: SiteConfig = {
     }
   ],
   footer: {
-    email: "piotr@macai.studio",
+    email: "piotr@ainsider.co",
     address: "Poland",
     phone: "+48 576 287 032"
   }
