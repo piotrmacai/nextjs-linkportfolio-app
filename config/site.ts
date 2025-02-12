@@ -33,8 +33,8 @@ export const siteConfig: SiteConfig = {
       visible: true
     },
     {
-      label: "Insdr.cloud",
-      url: "https://insdr.cloud",
+      label: "Ainsider.studio",
+      url: "https://ainsider.co",
       type: "custom",
       description: "My Web & AI Studio",
       shortDescription: "My Web & AI Studio",
